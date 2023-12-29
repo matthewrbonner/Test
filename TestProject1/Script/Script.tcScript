@@ -2,5 +2,7 @@
 <Root signature="{9252F941-DB23-4FCA-AA50-858B33BB4A19}" version="11.40">
 	<children>
 		<child name="Unit1" key="{1CE664A6-31FC-4E6D-A611-41863AFEC883}" path="Unit1.py" />
+		<child name="addedsccript" key="{B44E9075-949B-4552-9FDE-C81A7B7B8C3A}" path="addedsccript.py" />
+		<child name="AddedNewFeature" key="{EC091752-F6E2-42AB-B3E6-CD35CB510889}" path="AddedNewFeature.py" />
 	</children>
 </Root>
